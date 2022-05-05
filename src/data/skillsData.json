@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "type": "proficient",
+    "skills": [
+      [
+        "python",
+        "C",
+        "React"
+      ],
+      [
+        "Tensorflow",
+        "OpenCV",
+        "Django"
+      ],
+      [
+        "Javascript",
+        "NodeJs",
+        "Redux"
+      ],
+      [
+        "HTML",
+        "CSS",
+        "Linux"
+      ],
+      [
+        "Git"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "type": "familiar",
+    "skills": [
+      [
+        "C++",
+        "PyTorch",
+        "Typescript"
+      ],
+      [
+        "Java",
+        "SQL",
+        "Flutter"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "type": "other",
+    "skills": [
+      [
+        "Google Colab",
+        "AWS",
+        "Google Cloud"
+      ],
+      [
+        "MongoDB"
+      ]
+    ]
+  }
+]

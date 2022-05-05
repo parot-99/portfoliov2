@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "value": "Covid-19 Warning System",
+    "title": "Covid-19 Warning System",
+    "terminalTitle": "project",
+    "description": "A warning system that can detect people with/without a face mask from images and videos using deep learning",
+    "codeLink": "https://github.com/parot-99/Covid-19-Warning-System",
+    "tags": "AI - Object Detection - GUI - YOLOv4",
+    "image": 0
+  },
+  {
+    "id": 2,
+    "value": "Elite Outfits",
+    "title": "Elite Outfits",
+    "terminalTitle": "project",
+    "description": "Ecommere website using nodejs and reactjs",
+    "codeLink": "https://github.com/parot-99/EliteOutfits",
+    "tags": "E-Commerce - SPA - CRUD - Authentication - AWS",
+    "demoLink": "https://eliteoutfits.herokuapp.com/",
+    "image": 2
+  },
+  {
+    "id": 3,
+    "value": "Steve",
+    "title": "Steve",
+    "terminalTitle": "project",
+    "description": "3D object using javascript and webgl API",
+    "codeLink": "https://github.com/parot-99/Steve",
+    "tags": "Graphics - WebGL",
+    "demoLink": "https://steveparot.netlify.app/",
+    "image": 1
+  },
+  {
+    "id": 4,
+    "value": "Twitter Clone",
+    "title": "Twitter Clone",
+    "terminalTitle": "project",
+    "description": "A simple twitter clone using django and reactjs",
+    "codeLink": "https://github.com/parot-99/TwitterClone",
+    "tags": "CRUD - Authentication - Django - AWS",
+    "demoLink": "https://parot-twitter-clone.herokuapp.com/",
+    "image": 3
+  },
+  {
+    "id": 5,
+    "value": "Tic Tac Toe",
+    "title": "Tic Tac Toe",
+    "terminalTitle": "project",
+    "description": "TocTacToe using java",
+    "codeLink": "https://github.com/parot-99/TicTacToe",
+    "tags": "MVC"
+  }
+]

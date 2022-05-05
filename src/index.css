@@ -5,9 +5,45 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--background-color);
+  color: var(--light-text-color);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+  --background-color: #070b0d;
+  --light-background-color: #151a1e; 
+  --text-color: #F7F8F8;
+  --light-text-color: #999ea2;
+  --prim-color: #00AD9F;
+  --prim-hover-color: #00ad9ea3;
+  --light-border-color: #969da14d;
+  --header-color: #2D3B41;
+}
+
+a {
+  text-decoration: none;
+  color: var(--light-text-color);
+}
+
+ul {
+  list-style-type: none;
+}
+
+h2, h3, h4, h5, h6 {
+  color: var(--text-color);
+}
+
+h1 {
+  color: var(--prim-color);
 }

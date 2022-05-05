@@ -1,0 +1,24 @@
+#contact {
+  width: 35%;
+}
+
+.contact-data {
+  display: flex;
+  margin-bottom: 0.5rem;
+  justify-content: left;
+  align-items: center;
+}
+
+.contact-data a {
+  margin-left: 0.5rem;
+}
+
+.contact-data a:hover {
+  color: var(--prim-color);
+}
+
+@media only screen and (max-width: 600px) {
+  #contact {
+    margin-top: 1rem;
+  }
+}

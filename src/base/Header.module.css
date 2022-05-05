@@ -1,0 +1,11 @@
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3rem 0;
+}
+
+#icon {
+  width: 65px;
+  border-radius: 50%;
+}

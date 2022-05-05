@@ -1,0 +1,19 @@
+#education {
+  width: 24%;
+  background-color: var(--light-background-color);
+  padding: 1rem 2rem;
+  border-radius: 5px;
+}
+
+#education header {
+  margin-bottom: 1rem;
+}
+#education h4, #education h5 {
+  margin-bottom: 0.3rem;
+}
+
+@media only screen and (max-width: 600px) {
+  #education {
+    width: 100%;
+  }
+}
