@@ -6,7 +6,12 @@
       [
         "python",
         "C",
-        "React"
+        "Javascript"
+      ],
+      [
+        "PyTorch",
+        "Linux",
+        "Git"
       ],
       [
         "Tensorflow",
@@ -14,17 +19,13 @@
         "Django"
       ],
       [
-        "Javascript",
+        "React",
         "NodeJs",
         "Redux"
       ],
       [
         "HTML",
-        "CSS",
-        "Linux"
-      ],
-      [
-        "Git"
+        "CSS"
       ]
     ]
   },
@@ -34,12 +35,11 @@
     "skills": [
       [
         "C++",
-        "PyTorch",
+        "SQL",
         "Typescript"
       ],
       [
         "Java",
-        "SQL",
         "Flutter"
       ]
     ]

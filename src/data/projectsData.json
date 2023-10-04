@@ -1,6 +1,15 @@
 [
   {
     "id": 1,
+    "value": "SDGs Tagger",
+    "title": "SDGs Tagger",
+    "terminalTitle": "project",
+    "description": "A multi-label classification tool for texts related to Sustainable Development Goals.",
+    "codeLink": "https://github.com/parot-99/SDG-Tagger",
+    "tags": "AI - NLP - Transformers - Interpretability"
+  },
+  {
+    "id": 1,
     "value": "Covid-19 Warning System",
     "title": "Covid-19 Warning System",
     "terminalTitle": "project",
